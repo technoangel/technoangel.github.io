@@ -1,1 +1,18 @@
 /* your styles go here */
+ div.wrap {
+     height:auto;
+     margin: auto;
+     text-align:center;
+     position:relative;
+ }
+ 
+ h3.text_over_image {
+     position: absolute;
+     margin: auto;
+     top: 0;
+     left:0;
+     right:0;
+     bottom:0;
+     color:#fff;
+     height:100px;
+ }
